@@ -1,14 +1,13 @@
 # Road Line Detection and Labeling 
 
-This repository contains all the ipython notebooks I have created for 
+* This repository contains all the ipython notebooks I have created for 
 the [Math^Industry workshop 2020](https://mathtopowerindustry.ca/).  
-The project goal is to develop an automated recognition
+* The project goal is to develop an automated recognition
 and labelling tool for road lines in aerial images. Detailed project description can be 
 found [here](https://mathtopowerindustry.ca/project/aerium-analytics/).
-
-This project is a group work done by Carlos Contreras, Keran Li, Li Wang, Tingzhou Yu,
+* This project is a group work done by Carlos Contreras, Keran Li, Li Wang, Tingzhou Yu,
 Junjie Zhu and myself. 
-This project is proposed by [AERIUM Analytics](https://www.aeriumanalytics.com/). 
+* This project is proposed by [AERIUM Analytics](https://www.aeriumanalytics.com/). 
 Mentors for the project are Heather Vooys and Matthew Greenberg. 
 
 
